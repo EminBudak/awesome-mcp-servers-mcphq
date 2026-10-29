@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-567-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-568-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -48,7 +48,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Filesystems and Documents](#filesystems-and-documents) (21)
 - [Cloud and Infrastructure](#cloud-and-infrastructure) (29)
 - [Communication and Productivity](#communication-and-productivity) (73)
-- [AI, Agents, and Memory](#ai-agents-and-memory) (64)
+- [AI, Agents, and Memory](#ai-agents-and-memory) (65)
 - [Data, Analytics, and BI](#data-analytics-and-bi) (58)
 - [Legal and Court Data](#legal-and-court-data) (8)
 - [Security and Identity](#security-and-identity) (28)
@@ -767,6 +767,8 @@ LLM bridges, agent orchestration, RAG, and persistent memory layers.
   `video` `images` `audio` `marketing`
 - **[Waspes](https://waspes.com/api)** `Official` `Other` — AI website builder, 3D model generator, and Roblox Studio asset pipeline MCP server.  
   `website-builder` `3d-generation` `roblox` `image-to-3d` `remote`
+- **[Wiro AI](https://github.com/wiroai/Wiro-MCP)** `Official` `TypeScript` — Official MCP server for Wiro AI: search 3,500+ AI models for images, video, audio, speech, music and text, check each model's parameters and price, run it and get the results back in your assistant.  
+  `image-generation` `video-generation` `text-to-speech` `generative-ai` `ai-models`
 - **[Zep MCP Server](https://github.com/jaysack/zep-mcp)** `Python` — Community MCP wrapper for long-term memory and context retrieval with Zep.  
   `memory` `context` `rag`
 - **[Zerouter MCP](https://github.com/ZerouterAI/zerouter-mcp)** `Official` `TypeScript` — AI API gateway MCP for Claude, GPT, Gemini, Grok and Kimi via Zerouter, an OpenAI-compatible API, to chat, compare models side by side, and look up API pricing.  

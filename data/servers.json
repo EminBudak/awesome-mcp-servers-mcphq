@@ -4622,6 +4622,25 @@
     "official": false
   },
   {
+    "name": "Wiro AI",
+    "url": "https://github.com/wiroai/Wiro-MCP",
+    "description": "Official MCP server for Wiro AI: search 3,500+ AI models for images, video, audio, speech, music and text, check each model's parameters and price, run it and get the results back in your assistant.",
+    "category": "ai-agents-and-memory",
+    "language": "TypeScript",
+    "provider": "Wiro AI",
+    "tags": [
+      "image-generation",
+      "video-generation",
+      "text-to-speech",
+      "generative-ai",
+      "ai-models"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.wiro.ai/v1"
+    }
+  },
+  {
     "name": "Edusign MCP",
     "url": "https://developers.edusign.com/docs/mcp",
     "description": "Access Edusign attendance, courses, learners, documents, and API documentation through a hosted OAuth 2.1 MCP server.",

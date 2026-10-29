@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Hand-curated, link-checked catalog of 567 Model Context Protocol (MCP) servers in 14 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
+> Hand-curated, link-checked catalog of 568 Model Context Protocol (MCP) servers in 14 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
 
 MCP is an open protocol that lets AI applications connect to external tools and data through a standardized client-server interface. This catalog lists well-scoped, source-available servers for databases, developer tools, browsers, cloud services, and more. Entries are reviewed for a clear purpose, a public source, and recent or official maintenance. Links are checked on every pull request and weekly.
 
@@ -364,6 +364,7 @@ Links under each category point at the upstream project, docs, or registry page.
 - [Takibi Base](https://takibibase.com/docs/connector): Ask your Takibi Base collections anything; get answers with cited passages and a support score. (Other, official)
 - [VideoGen MCP](https://videogen.io/videogen-mcp): Official VideoGen server for creating and editing videos, images, voiceovers, music, and avatars, then remixing and exporting projects. (TypeScript, official)
 - [Waspes](https://waspes.com/api): AI website builder, 3D model generator, and Roblox Studio asset pipeline MCP server. (Other, official)
+- [Wiro AI](https://github.com/wiroai/Wiro-MCP): Official MCP server for Wiro AI: search 3,500+ AI models for images, video, audio, speech, music and text, check each model's parameters and price, run it and get the results back in your assistant. (TypeScript, official)
 - [Zep MCP Server](https://github.com/jaysack/zep-mcp): Community MCP wrapper for long-term memory and context retrieval with Zep. (Python)
 - [Zerouter MCP](https://github.com/ZerouterAI/zerouter-mcp): AI API gateway MCP for Claude, GPT, Gemini, Grok and Kimi via Zerouter, an OpenAI-compatible API, to chat, compare models side by side, and look up API pricing. (TypeScript, official)
 

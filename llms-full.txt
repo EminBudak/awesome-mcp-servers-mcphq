@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 567 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 568 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -3798,6 +3798,18 @@ AI website builder, 3D model generator, and Roblox Studio asset pipeline MCP ser
 - Tags: website-builder, 3d-generation, roblox, image-to-3d, remote
 - Category: AI, Agents, and Memory
 - Streamable HTTP endpoint: https://waspes.com/api/mcp
+
+### Wiro AI
+
+Official MCP server for Wiro AI: search 3,500+ AI models for images, video, audio, speech, music and text, check each model's parameters and price, run it and get the results back in your assistant.
+
+- URL: https://github.com/wiroai/Wiro-MCP
+- Language: TypeScript
+- Provider: Wiro AI
+- Official: yes
+- Tags: image-generation, video-generation, text-to-speech, generative-ai, ai-models
+- Category: AI, Agents, and Memory
+- Streamable HTTP endpoint: https://mcp.wiro.ai/v1
 
 ### Zep MCP Server
 
